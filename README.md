@@ -28,7 +28,7 @@ Cybersecurity
 
 IT Automation
 
-#3 Contact
+## Contact
 
 
 📫LinkedIn: https://www.linkedin.com/in/adam-mazinga-080313aa/
