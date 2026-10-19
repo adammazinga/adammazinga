@@ -1,21 +1,30 @@
-**Adam Mazinga**
+# Adam Mazinga
 
-💻 Senior IT Specialist
-🌍 Belgium
-☁️ Cloud | Cybersecurity | IT Infrastructure
 
-**Tech Stack**
+💻Senior IT Specialist
+
+🌍Belgium
+
+☁️Cloud | Cybersecurity | IT Infrustructure
+
+
+# Tech Stack
+
 Linux
 Microsoft 365
-Azure / Entra ID
+Microsoft Azure/Entra
 Networking
 
-**Learning**
+# Learning
+
+A.I
 Cloud Technologies
 Cybersecurity
 IT Automation
 
-**Contact**
-📫 LinkedIn: https://www.linkedin.com/in/adam-mazinga-080313aa/
+# Contact
 
-_Always learning. Always solving problems._
+📫LinkedIn: https://www.linkedin.com/in/adam-mazinga-080313aa/
+
+
+##### Always learning. Always solving problems.
