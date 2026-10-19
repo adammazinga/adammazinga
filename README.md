@@ -8,21 +8,28 @@
 ☁️Cloud | Cybersecurity | IT Infrustructure
 
 
-# Tech Stack
+## Tech Stack
 
 Linux
+
 Microsoft 365
+
 Microsoft Azure/Entra
+
 Networking
 
-# Learning
+## Learning
 
 A.I
+
 Cloud Technologies
+
 Cybersecurity
+
 IT Automation
 
 # Contact
+
 
 📫LinkedIn: https://www.linkedin.com/in/adam-mazinga-080313aa/
 
