@@ -5,7 +5,7 @@
 
 🌍 Belgium
 
-🧰 Cloud | Cybersecurity | IT Infrustructure
+🎯 Cloud | Cybersecurity | IT Infrustructure
 
 
 ## Tech Stack
