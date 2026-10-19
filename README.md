@@ -10,23 +10,17 @@
 
 ## Tech Stack
 
-Linux
-
-Microsoft 365
-
-Microsoft Azure/Entra
-
-Networking
+- Linux
+- Microsoft 365
+- Microsoft Azure/Entra
+- Networking
 
 ## Learning
 
-A.I
-
-Cloud Technologies
-
-Cybersecurity
-
-IT Automation
+- A.I
+- Cloud Technologies
+- Cybersecurity
+- IT Automation
 
 ## Contact
 
