@@ -1,11 +1,11 @@
 # Adam Mazinga
 
 
-💻Senior IT Specialist
+💻 Senior IT Specialist
 
-🌍Belgium
+🌍 Belgium
 
-☁️Cloud | Cybersecurity | IT Infrustructure
+🧰 Cloud | Cybersecurity | IT Infrustructure
 
 
 ## Tech Stack
