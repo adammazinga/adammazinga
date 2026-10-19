@@ -28,10 +28,11 @@ Cybersecurity
 
 IT Automation
 
-# Contact
+#3 Contact
 
 
 📫LinkedIn: https://www.linkedin.com/in/adam-mazinga-080313aa/
 
 
-##### Always learning. Always solving problems.
+
+##### _Always learning. Always solving problems._
